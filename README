@@ -1,0 +1,4 @@
+# This is the device tree and kernel to build CM9 for ZTE V11A/V55/V71A
+Kernel Source is newkernel.zip under kernel/zte/ folder.
+
+http://forum.xda-developers.com/showthread.php?t=1629630
